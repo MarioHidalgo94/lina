@@ -1,0 +1,17 @@
+{
+  "name": "Lina · Entreno",
+  "short_name": "Lina",
+  "description": "Registro de entrenamiento con sobrecarga progresiva",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF7FA",
+  "theme_color": "#FFE8F1",
+  "lang": "es",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
